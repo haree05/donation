@@ -11,7 +11,7 @@ section{
     width: 100%;
     min-height: 100vh;
     background:  linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.1)), url(../img/donation-charity.jpg);
+    rgba(0, 0, 0, 0.1)), url(../donation-charity.jpg);
     background-size: cover;
     background-position:center;
     display:flex;
@@ -147,7 +147,7 @@ section {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url(../img/donation1.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url(../donation1.jpg);
   background-size: cover;
   display: flex;
   background-repeat: no-repeat;
@@ -189,7 +189,7 @@ header .navigation.active {
   position: relative;
   width: 30px;
   height: 30px;
-  background: url(/img/menu.png);
+  background: url(./menu.png);
   background-position: center;
   background-size: 30px;
   background-repeat: no-repeat;
@@ -207,7 +207,7 @@ header .navigation.active {
 
 .gallery-box{
     background:linear-gradient(rgba(0, 0, 0, 0.8),
-    rgba(0, 0, 0, 0.8)), url(../img/poors.jpg);
+    rgba(0, 0, 0, 0.8)), url(../poors.jpg);
     position: relative;
     width: 100%;
     min-height: 100vh;
@@ -266,7 +266,7 @@ header .navigation.active {
     width: 100%;
     min-height: 100vh;
     background:  linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.1)), url(./img/poor2.jpg);
+    rgba(0, 0, 0, 0.1)), url(./poor2.jpg);
     background-size: cover;
     background-position:center;
     display:flex;
